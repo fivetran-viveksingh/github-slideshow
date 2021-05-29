@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide! by Vivek"
+title: "Welcome to our second slide!"
 ---
-Your text
+Info:
 Use the left arrow to go back!
